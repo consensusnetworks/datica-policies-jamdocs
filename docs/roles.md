@@ -1,7 +1,7 @@
 ---
 title: "Roles and Responsibilities"
 metaDescription: "The goal of this policy is to guide and direct Consensus Networks workforce members on how to defend its assets against internal, external, deliberate or accidental threats."
-date: 2018-09-15 07:42:34
+date: 2021-03-15 07:42:34
 slug: roles
 ---
 
