@@ -1,3 +1,6 @@
+![Consensus_Logo](/datica-policies-jamdocs/CN_horiz.png)
+
+
 ---
 title: "Purpose and Scope"
 metaDescription: "The goal of this policy is to guide and direct Consensus Networks workforce members on how to defend its assets against internal, external, deliberate or accidental threats."
