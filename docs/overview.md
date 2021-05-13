@@ -1,4 +1,4 @@
-![Consensus_Logo](/datica-policies-jamdocs/CN_horiz.png)
+![Consensus_Logo](https://github.com/consensusnetworks/datica-policies-jamdocs/blob/420e77ede20ed4d6f0c44c28d112bcec55fd64cd/CN_horiz.png)
 
 
 ---
