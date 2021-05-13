@@ -17,7 +17,7 @@ This Information Security Policy has been established to ensure the business con
 
 The policy requirements and restrictions defined in this policy shall apply to all Consensus Networks personnel and systems. The policy covers Consensus Networks network systems which is comprised of various hardware, software, communication equipment and other devices designed to assist Consensus Networks and its customers in the creation, receipt, storage, processing, and transmission of data and information. 
 
-Consensus Networks’s portfolio of cloud-based products include the following: 1) Compliant Platform as a Service (CPaaS) 2) Compliant Serverless Service (CSS) and 3) Compliant Managed Integration (CMI). These products are cited throughout Consensus Networks policies, standards, and procedures as customers in each category inherit different standards, procedures, and obligations from Consensus Networks. It is the responsibility of the Chief Security Officer and Chief Privacy Officer to maintain this policy and ensure the contents of the policy are continually monitored and enforced.
+Consensus Networks’ portfolio of cloud-based products include the following: 1) Compliant Platform as a Service (CPaaS) 2) Compliant Serverless Service (CSS) and 3) Compliant Managed Integration (CMI). These products are cited throughout Consensus Networks policies, standards, and procedures as customers in each category inherit different standards, procedures, and obligations from Consensus Networks. It is the responsibility of the Chief Security Officer and Chief Privacy Officer to maintain this policy and ensure the contents of the policy are continually monitored and enforced.
 
 ## Established Roles
 
