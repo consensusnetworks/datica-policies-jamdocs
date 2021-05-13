@@ -19,35 +19,62 @@ Consensus Networks’s portfolio of cloud-based products include the following: 
 
 Consensus Networks complies with standards set forth by the HHS Office of Civil Rights (OCR) HIPAA Audit Protocol and HITRUST Common Security Framework. Policies are broken into the following categories, referenced to the HITRUST Common Security Framework, with added clarification specific to Consenus Networks' unique requirements.
 
-# Security Framework Policies
+## Security Framework Policies
 
 Access Management Policy
+
 Asset Management Policy
+
 Auditing, Logging and Monitoring Policy
+
 Change Management Policy
+
 Classification Policy
+
 Information Classification
+
 Application Classification
+
 System Classification
+
 Credential Management Policy
+
 Data Integrity Policy
+
 Data Retention and Media Destruction Policy
+
 Disaster Recovery and Business Continuity Policy
+
 Incident Response Policy
+
 Breach Notification
-Datica HIPAA Breach Policy
-Datica Customer GDPR Breach Policy
-Datica Platform Customer Responsibilities
-Breach notifications involving EU personal information collected by Datica
+
+Consensus Networks HIPAA Breach Policy
+
+Consensus Networks GDPR Breach Policy
+
+Consensus Networks Platform Customer Responsibilities
+
+Breach notifications involving EU personal information collected by Consensus Networks
+
 Breach Accounting and Additional Considerations
+
 Physical Security Policy
+
 Policy Management Policy
+
 Risk Management Policy
+
 System Development Lifecycle Policy
+
 System Security Policy
+
 Third Party Vendors and Due Diligence Policy
+
 Tools Policy
+
 Training and Awareness Policy
+
 Vulnerability Management Policy
+
 Compliance
-Version Tracking
